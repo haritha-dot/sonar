@@ -15,6 +15,11 @@
 	<description>Order micro-service Springboot</description>
 	<properties>
 		<java.version>8</java.version>
+		<sonar.projectKey>haritha-dot_sonar
+</sonar.projectKey>
+<sonar.organization>haritha-dot
+</sonar.organization>
+<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	</properties>
 	
 	<dependencyManagement>
